@@ -166,7 +166,7 @@ This is a standard Alembic management file - if it exists, then a database migra
 
 `db2_community` (DB2 Community Edition 11.5) is recommended over `db2_devc` (DB2 Developer C 11.0)
 
-Note that DB2 Developer C is exposed on the host ports 50001/55001 and DB2 Community on 50002/55002 to avoid port clashes.
+Note that DB2 Developer C is exposed on the host ports 50001/55001 and DB2 Community on 30002/35002 to avoid port clashes.
 
 **`/fragments/db2-devc-init-fragment.sql`**
 **`/fragments/db2-community-init-fragment.sql`**
